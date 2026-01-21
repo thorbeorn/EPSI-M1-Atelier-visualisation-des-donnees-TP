@@ -1,6 +1,6 @@
 # Rapport Technique – Pipeline de Données et Visualisation du Conflit en Ukraine (2014–2022)
 
-**Auteur : Dylan Llodra**  
+**Auteur : Dylan Llodra et Nicolas Gréault**  
 **Outil principal : Power BI Desktop**  
 **Technologies : Power Query (M), CSV, Modèle tabulaire Power BI**
 
