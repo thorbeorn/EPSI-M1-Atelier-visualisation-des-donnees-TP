@@ -60,7 +60,7 @@ Le tableau de bord se compose de plusieurs pages d’analyse :
 - Visualisations : cartes, courbes temporelles, bar charts, KPIs, tableaux dynamiques  
 
 ## 👤 Auteur
-Projet réalisé par **LLODRA Dylan**.
+Projet réalisé par **LLODRA Dylan** et **GREAULT Nicolas**.
 
 ## 📄 Licence
 Projet à usage académique ou professionnel, selon les besoins.  
