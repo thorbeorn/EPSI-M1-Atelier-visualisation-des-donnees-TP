@@ -1,6 +1,6 @@
 # Rapport d’analyse – Conflit en Ukraine (2014–2022)
 
-**Auteur : Dylan Llodra**  
+**Auteur : Dylan Llodra et Nicolas Greault**  
 **Outil : Power BI Desktop**
 
 Ce projet vise à analyser les conflits armés en Ukraine entre 2014 et 2022 à partir de données historiques structurées. L’approche repose sur une chaîne de traitement de données et une visualisation interactive via Power BI.
